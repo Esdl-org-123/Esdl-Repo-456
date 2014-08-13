@@ -7,5 +7,6 @@ void main()
 }
 void display()
 {
- printf("hello")
+ printf("hello");
+ printf("welcome");
 }
